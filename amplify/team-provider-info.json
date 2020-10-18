@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jokebox-dev-221947-authRole",
+      "UnauthRoleArn": "arn:aws:iam::766223306101:role/amplify-jokebox-dev-221947-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::766223306101:role/amplify-jokebox-dev-221947-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-jokebox-dev-221947-deployment",
+      "UnauthRoleName": "amplify-jokebox-dev-221947-unauthRole",
+      "StackName": "amplify-jokebox-dev-221947",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:766223306101:stack/amplify-jokebox-dev-221947/adc4cee0-0bb3-11eb-9673-02c34f2e797a",
+      "AmplifyAppId": "d104qrnybap3y"
+    },
+    "categories": {
+      "auth": {
+        "jokeboxe5291775": {},
+        "userPoolGroups": {}
+      }
+    }
+  }
+}
